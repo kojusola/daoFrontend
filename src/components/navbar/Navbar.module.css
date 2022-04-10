@@ -45,3 +45,7 @@
   color: green;
   border: 1px solid green;
 }
+.items li a {
+  color: #495371;
+  text-decoration: none;
+}

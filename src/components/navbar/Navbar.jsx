@@ -86,7 +86,11 @@ const Navbar = () => {
       </div>
 
       <ul className={Styles.items}>
-        <li>View our pool</li>
+        <li>
+          <a className={Styles.items} href="/vote">
+            View our pool
+          </a>
+        </li>
         <li onClick={connectWallet}>Connect wallet</li>
       </ul>
     </nav>
