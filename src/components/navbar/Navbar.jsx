@@ -87,7 +87,7 @@ const Navbar = () => {
 
       <ul className={Styles.items}>
         <li>
-          <Link className={Styles.items} to="/vote">
+          <Link className={Styles.items} to="/info">
             View our pool
           </Link>
         </li>
