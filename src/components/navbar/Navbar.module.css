@@ -49,3 +49,6 @@
   color: #495371;
   text-decoration: none;
 }
+.items li a:hover {
+  color: #ffffff;
+}

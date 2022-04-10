@@ -121,7 +121,7 @@ const BusinessInfo = () => {
       address: "0xef456u5t4uy4i4333323344",
     },
   ];
-  const itemsPerPage = 3;
+  const itemsPerPage = 5;
   React.useEffect(() => {
     const data = [
       {
