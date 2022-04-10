@@ -1,9 +1,9 @@
 import React from "react";
 import Layout from "../../components/layout/Layout";
 import Styles from "./Vote.module.css";
-import { ethers, Contract } from "ethers";
+// import { ethers, Contract } from "ethers";
 import "react-toastify/dist/ReactToastify.css";
-import { ToastContainer, toast } from "react-toastify";
+// import { ToastContainer, toast } from "react-toastify";
 // const investifyAddress = "0x169E82570feAc981780F3C48Ee9f05CED1328e1b";
 // import investifyAbi from "./utils/web3/abi.json";
 

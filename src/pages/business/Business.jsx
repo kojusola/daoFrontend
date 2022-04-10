@@ -36,7 +36,7 @@ const Business = () => {
       console.log(rootCid);
 
       // Get info on the Filecoin deals that the CID is stored in
-      const info = await client.status(rootCid); // Promise<Status | undefined>
+      await client.status(rootCid); // Promise<Status | undefined>
     } catch (error) {
       console.log("Error uploading file: ", error);
     }

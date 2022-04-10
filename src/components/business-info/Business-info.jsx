@@ -1,9 +1,9 @@
 import React from "react";
 import Styles from "./Business-info.module.css";
-import { ethers, utils, Contract } from "ethers";
+// import { ethers, utils, Contract } from "ethers";
 import InfoOverlay from "../../components/info-overlay/Info-overlay";
 import "react-toastify/dist/ReactToastify.css";
-import { ToastContainer, toast } from "react-toastify";
+import { toast } from "react-toastify";
 import ReactPaginate from "react-paginate";
 // const investifyAddress = "0x169E82570feAc981780F3C48Ee9f05CED1328e1b";
 // import investifyAbi from "./utils/web3/abi.json";
